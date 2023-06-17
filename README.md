@@ -1,10 +1,12 @@
 
-### Hi guys :)
+### Hi guys, my name is Beatriz Oliveira and I hope you like my profile :)
 
-🌱 I’m currently studying Software Analysis and Development.
+
+📚 I'm currently studying Systems Analysis and Development.
+🔴My goal is to showcase my progress in the knowledge I have acquired during my studies
 <br>
 
-#### ⚙️ Some technologies I know:
+#### 💻 Some technologies I know:
 <div>
    <img align="center" alt="BiaOliveira12-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="BiaOliveira12-C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
