@@ -3,7 +3,8 @@
 
 
 📚 I'm currently studying Systems Analysis and Development.
-🔴My goal is to showcase my progress in the knowledge I have acquired during my studies
+<br>
+🔴My goal is to showcase my progress in the knowledge I have acquired during my studies.
 <br>
 
 #### 💻 Some technologies I know:
