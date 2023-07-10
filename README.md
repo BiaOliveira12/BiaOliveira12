@@ -22,8 +22,8 @@
 
 
 <div align="center"><br>
-<img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=BiaOliveira12&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"&theme=dark"/>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=BiaOliveira&theme=react&hide=css"&theme=dark"/>
+<img  height="180em" align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=BiaOliveira12&theme=react&line_height=40&hide=css"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=BiaOliveira12&theme=react&hide=css"&theme=dark"/>
 
   ![Snake animation](https://github.com/BiaOliveira12/BiaOliveira12/blob/output/github-contribution-grid-snake.svg). 
 
