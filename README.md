@@ -23,8 +23,8 @@
 
 <div align="center"><br>
 <a href="https://github.com/BiaOliveira12">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Bia Oliṽeir'a&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bia Oliṽeir'a&layout=compact&langs_count=10&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BiaOliṽeir'a&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BiaOliṽeir'a&layout=compact&langs_count=10&theme=dark"/>
 
   ![Snake animation](https://github.com/BiaOliveira12/BiaOliveira12/blob/output/github-contribution-grid-snake.svg). 
 
