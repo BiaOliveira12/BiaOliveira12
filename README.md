@@ -23,7 +23,7 @@
 
 <div align="center"><br>
 <a href="https://github.com/BiaOliveira12">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BiaOliveira12&show_icons=true\&theme=dark#gh-dark-mode-only"&theme=THEME_jolly/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BiaOliveira12&show_icons=true\&theme=jolly#gh-dark-mode-only"/>
   
 
   ![Snake animation](https://github.com/BiaOliveira12/BiaOliveira12/blob/output/github-contribution-grid-snake.svg). 
