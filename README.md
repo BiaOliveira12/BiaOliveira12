@@ -22,7 +22,7 @@
 
 
 <div align="center"><br>
-<a href="https://github.com/bajona">
+<a href="https://github.com/BiaOliveira12"><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=BiaOliveira12&theme=react&line_height=40&hide=css"/> </a>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BiaOliveira12&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BiaOliveira12&layout=compact&langs_count=10&theme=dark"/>
 
