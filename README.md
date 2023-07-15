@@ -26,3 +26,10 @@
 
  ![Snake animation](https://github.com/BiaOliveira12/BiaOliveira12/blob/output/github-contribution-grid-snake.svg).
 </div>
+
+<br>
+<div>
+ [![paypal.me/BiaOliveira12](https://ionicabizau.github.io/badges/paypal.svg)](https://www.paypal.com/donate/?hosted_button_id=9AV6BSP6VDX8N) - You can make one-time donations via PayPal. I'll probably buy a ~~coffee~~ tea. :tea:
+
+Thanks! :heart:
+</div>
