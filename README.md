@@ -27,8 +27,4 @@
  ![Snake animation](https://github.com/BiaOliveira12/BiaOliveira12/blob/output/github-contribution-grid-snake.svg).
 </div>
 
-<br>
-<div>
-   PayPal me if you like this profile - https://www.paypal.com/donate/?hosted_button_id=9AV6BSP6VDX8N
-Thanks! :heart:
-</div>
+
