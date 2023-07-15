@@ -29,7 +29,7 @@
 
 <br>
 <div>
-<a hreaf="https://www.paypal.com/donate/?hosted_button_id=9AV6BSP6VDX8N"><button>PayPal me</button></a> - You can make one-time donations via PayPal. I'll probably buy a ~~coffee~~ tea. :tea:
+<input type="button">PayPal me<a hreaf="https://www.paypal.com/donate/?hosted_button_id=9AV6BSP6VDX8N"></a></input> - You can make one-time donations via PayPal. I'll probably buy a ~~coffee~~ tea. :tea:
 
 Thanks! :heart:
 </div>
