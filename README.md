@@ -23,9 +23,6 @@
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BiaOliveira12&layout=compact&theme=radical"
   
 <br><br>
- 
- [![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/BiaOliveira12/BiaOliveira12/main.yml?label=action&style=flat-square)]
-
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
