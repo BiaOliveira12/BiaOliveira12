@@ -24,7 +24,7 @@
   
 <br><br>
  
- ![GitHub stats](https://raw.githubusercontent.com/scriptex/scriptex/master/profile-3d-contrib/profile-night-green.svg)
+ ![GitHub stats](https://raw.githubusercontent.com/BiaOliveira12/BiaOliveira12/master/profile-3d-contrib/profile-night-green.svg)
 </div>
 
 
