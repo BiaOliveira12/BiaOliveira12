@@ -24,7 +24,7 @@
   
 <br><br>
  
- [![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/BiaOliveira12/BiaOliveira12/main.yml?label=action&style=flat-square)](https://github.com/BiaOliveira12/BiaOliveira12/actions/workflows/main.yml)
+ [![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/BiaOliveira12/BiaOliveira12/main.yml?label=action&style=flat-square)]
 
 <picture>
   <source
