@@ -24,8 +24,5 @@
   
 <br>
 ![GitHub stats](https://raw.githubusercontent.com/BiaOliveira12/BiaOliveira12/master/profile-3d-contrib/profile-night-green.svg)
-<br>
- ![Snake animation](https://github.com/BiaOliveira12/BiaOliveira12/blob/output/github-contribution-grid-snake.svg).
-</div>
 
 
