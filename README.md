@@ -23,7 +23,8 @@
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BiaOliveira12&layout=compact&theme=radical"
   
 <br><br>
- ![Snake animation](https://github.com/BiaOliveira12/BiaOliveira12/blob/output/github-contribution-grid-snake.svg).
+ 
+ ![GitHub stats](https://raw.githubusercontent.com/scriptex/scriptex/master/profile-3d-contrib/profile-night-green.svg)
 </div>
 
 
