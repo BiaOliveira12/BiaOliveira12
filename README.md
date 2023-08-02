@@ -7,6 +7,7 @@
 #### 💻 Some technologies I know:<br>
 
 <div>
+    <br>
    <img align="center" alt="BiaOliveira12-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="BiaOliveira12-C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="BiaOliveira12-Dart" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">
