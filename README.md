@@ -31,7 +31,7 @@
 <br><br>
 </div>
 <div align="center">
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/BiaOliveira12/BiaOliveira12/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/BiaOliveira12/BiaOliveira12/output/github-contribution-grid-snake.svg&theme=radical" />
   
   <br/><br/><br/>
 </div>
