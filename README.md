@@ -3,6 +3,9 @@
 </h1>
 📚 I'm currently studying Systems Analysis and Development.
 <br>
+<a href="https://www.linkedin.com/in/beatriz-oliveira-aguiar" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+<br>
 
 #### 💻 Some technologies I know:
 <div>
