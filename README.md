@@ -25,8 +25,8 @@
 
 <div align="center"><br>
 <a href="https://github.com/BiaOliveira12">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BiaOliveira12&show_icons=true\&theme=radical#gh-dark-mode-only"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BiaOliveira12&layout=compact&theme=radical"
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BiaOliveira12&show_icons=true\&theme=transparent#gh-dark-mode-only"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BiaOliveira12&layout=compact&theme=transparent"
        
 </div>
 <div align="center">
