@@ -4,7 +4,7 @@
 📚 I'm currently studying Systems Analysis and Development.
 <br>
 <br>
-#### 💻 Some technologies I know:
+#### 💻 Some technologies I know:<br>
 
 <div>
    <img align="center" alt="BiaOliveira12-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
