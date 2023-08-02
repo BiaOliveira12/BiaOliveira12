@@ -1,3 +1,7 @@
+<div align="center">
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/BiaOliveira12/BiaOliveira12/output/github-contribution-grid-snake.svg" />
+</div>
+<br>
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+;+My+name's+Beatriz+Oliveira!;+I+hope+you+like+my+profile!;" />
 </h1>
@@ -34,7 +38,5 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" /><br>
     </div>
 
-<div align="center">
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/BiaOliveira12/BiaOliveira12/output/github-contribution-grid-snake.svg" />
-</div>
+
 
