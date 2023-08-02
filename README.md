@@ -1,8 +1,6 @@
-<h1 align="center">
-    [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=4000&pause=1000&color=662A92&center=true&width=500&height=70&lines=Hi+there!;My+name's+Beatriz+Oliveira;I+hope+you+like+my+profile!+%3A))](https://git.io/typing-svg)
-</h1>
-<br>
-
+<section align="center">
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=4000&pause=1000&color=662A92&center=true&width=500&height=70&lines=Hi+there!;My+name's+Beatriz+Oliveira;I+hope+you+like+my+profile!+%3A))](https://git.io/typing-svg)
+</section>
 
 📚 I'm currently studying Systems Analysis and Development.
 <br>
