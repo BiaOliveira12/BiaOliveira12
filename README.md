@@ -1,4 +1,7 @@
-
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+guys!;+my+name's+Beatriz+Oliveira!;+I+hope+you+like+my+profile" />
+</h1>
+<br><br><br>
 ### Hi guys, my name is Beatriz Oliveira and I hope you like my profile :)
 
 
