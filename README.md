@@ -29,7 +29,11 @@
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BiaOliveira12&layout=compact&theme=radical"
   
 <br><br>
-
+</div>
+<div align="center">
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/BiaOliveira12/BiaOliveira12/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
 </div>
 
 ✅If you want to contribute to my work and projects, just... [donate](https://link.mercadopago.com.br/biaoliveira12)✅
