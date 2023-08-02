@@ -1,6 +1,9 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+there!;+my+name's+Beatriz+Oliveira!;+I+hope+you+like+my+profile!" />
 </h1>
+<br>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=4000&pause=1000&color=662A92&center=true&width=500&height=70&lines=Hi+there!;My+name's+Beatriz+Oliveira;I+hope+you+like+my+profile!+%3A))](https://git.io/typing-svg)
 📚 I'm currently studying Systems Analysis and Development.
 <br>
 
