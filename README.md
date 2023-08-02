@@ -9,9 +9,9 @@
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
     <a href="https://www.linkedin.com/in/beatriz-oliveira-aguiar-7620b326b/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-    </div>
+    </div><br>
     💬 If you want to contribute to my work and projects, just... [DONATE](https://link.mercadopago.com.br/biaoliveira12)**
-
+    <br>
         
 #### 💻 Some technologies I know:
 <div>
