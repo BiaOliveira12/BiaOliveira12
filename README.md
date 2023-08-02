@@ -31,8 +31,6 @@
 </div>
 <div align="center">
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/BiaOliveira12/BiaOliveira12/output/github-contribution-grid-snake.svg" />
-  
-  <br/>
 </div>
 
 ✅If you want to contribute to my work and projects, just... [donate](https://link.mercadopago.com.br/biaoliveira12)✅
