@@ -10,7 +10,9 @@
     <a href="https://www.linkedin.com/in/beatriz-oliveira-aguiar-7620b326b/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" /><br>
     </div>
-    💬 If you want to contribute to my work and projects, just... [here]<a scr="https://link.mercadopago.com.br/biaoliveira12"**
+        <section>
+    💬 If you want to contribute to my work and projects, just... [here]<a scr="https://link.mercadopago.com.br/biaoliveira12">**
+    </section>
         
 #### 💻 Some technologies I know:
 <div>
