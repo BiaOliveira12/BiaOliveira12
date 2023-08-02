@@ -31,9 +31,8 @@
 <br><br>
 
 </div>
-If you want to contribute to my work and projects, just... 
 
-[donate](https://link.mercadopago.com.br/biaoliveira12)
+If you want to contribute to my work and projects, just... [donate](https://link.mercadopago.com.br/biaoliveira12)
 
 
 
