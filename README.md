@@ -31,7 +31,7 @@
 <br><br>
 
 </div>
-If you want to contribute to my work and projects, just... <button(https://link.mercadopago.com.br/biaoliveira12)**
+If you want to contribute to my work and projects, just... <br>
 
 [donate](https://link.mercadopago.com.br/biaoliveira12)
 
