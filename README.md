@@ -18,12 +18,7 @@
  </div>
 
 
-<div align="center"><br>
-<a href="https://github.com/BiaOliveira12">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BiaOliveira12&show_icons=true\&theme=transparent#gh-dark-mode-only"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BiaOliveira12&layout=compact&theme=transparent"
-       
-</div>
+
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/BiaOliveira12/BiaOliveira12/output/github-contribution-grid-snake.svg" />
