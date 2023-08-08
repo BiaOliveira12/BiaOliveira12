@@ -24,15 +24,15 @@
  <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/BiaOliveira12/BiaOliveira12/output/github-contribution-grid-snake.svg" />
-</div>
+</div><div align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra\&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra\&layout=compact\&theme=transparent)
 
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=BiaOliveira12\&show_icons=true\&theme=transparent)
 
-
+</div>
 
 ✅If you want to contribute to my work and projects, just... [donate](https://link.mercadopago.com.br/biaoliveira12)✅
 <div align="center">
