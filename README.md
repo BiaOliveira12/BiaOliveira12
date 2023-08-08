@@ -19,16 +19,13 @@
   <img align="center" alt="BiaOliveira12-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="BiaOliveira12-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="BiaOliveira12-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
- </div><br><div align="center" style="inline">
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=BiaOliveira12\&show_icons=true\&theme=transparent)
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BiaOliveira12&theme=transparent\&layout=compact)
-
-
+ </div><br>
+<div align="center"><br>
+<a href="https://github.com/BiaOliveira12">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BiaOliveira12&theme=transparent\&show_icons=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BiaOliveira12&layout=compact&theme=transparent"/>
+       
 </div>
-
  <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/BiaOliveira12/BiaOliveira12/output/github-contribution-grid-snake.svg" />
