@@ -22,8 +22,7 @@
  </div><br><div align="center" style="inline">
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=BiaOliveira12\&show_icons=true\&theme=transparent)
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra\&layout=compact\&theme=transparent)"/>
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BiaOliveira12&layout=compact)
 </div>
 
  <div align="center">
