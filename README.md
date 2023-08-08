@@ -27,9 +27,6 @@
 </div><div align="center" style="inline">
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra\&layout=compact\&theme=transparent)
-
-
-
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=BiaOliveira12\&show_icons=true\&theme=transparent)
 
 </div>
@@ -41,9 +38,3 @@
     <a href="https://www.linkedin.com/in/beatriz-oliveira-aguiar-7620b326b/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" /><br>
     </div>
-    <br>
-    <a href="https://github.com/BiaOliveira12">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BiaOliveira12&show_icons=true\&theme=transparent#gh-dark-mode-only"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BiaOliveira12&layout=compact&theme=transparent"/>
-       
-    
