@@ -21,7 +21,7 @@
   <img align="center" alt="BiaOliveira12-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
  </div><br><div align="center" style="inline">
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=BiaOliveira12\&show_icons=true\&theme=transparent)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=BiaOliveira12\&show_icons=true\&theme=transparent\&height="180em")
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BiaOliveira12&layout=compact\&theme=transparent\&height="180em")
 </div>
 
